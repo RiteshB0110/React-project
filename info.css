@@ -1,0 +1,27 @@
+form {
+  width: 350px;
+  margin: 0 auto;           
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;         
+}
+
+input,textarea,select,
+button {
+  width: 100%;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
+
+button {
+  background: rgb(0, 126, 175);
+  color: white;
+  font-weight: bold;
+
+}
+
+.htwo{
+  text-align: center;
+
+}

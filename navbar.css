@@ -1,0 +1,29 @@
+nav {
+    background-color: rgb(104, 104, 104);
+    padding: 5px 20px; 
+}
+
+.navul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;         
+}
+
+.abc {
+    display: inline-block;
+}
+
+a {
+    color: white !important;
+    text-decoration: none !important;
+    font-size: 16px;  
+    line-height: 1.2;   
+    padding: 5px 10px;  
+}
+
+a:hover {
+    color: yellow;
+}

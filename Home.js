@@ -26,7 +26,6 @@ strong technical foundations. The institute provides hands-on
     and strong placement support. It aims to empower learners with
 skills that match today’s industry requirements.
      </p>
-    <hr>
 </div>
 
 
@@ -34,5 +33,4 @@ skills that match today’s industry requirements.
 
     );
 }
-
 export default Home;
